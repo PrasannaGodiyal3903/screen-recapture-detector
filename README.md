@@ -3,7 +3,7 @@
 A fast, lightweight, explainable detector that tells real photographs apart
 from **photos of a screen** (recaptures).  Built with classical computer-vision
 features and a small Random Forest classifier — no GPU required, runs in
-~30–80 ms per image on a laptop CPU.
+~300–800 ms per image on a laptop CPU.
 
 ---
 
