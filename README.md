@@ -6,6 +6,7 @@ features and a GBM + Random Forest ensemble — no GPU required, runs in
 ~340 ms per image on a laptop CPU.
 
 **4-fold CV accuracy: 94.53% | ROC-AUC: 0.9858 |**
+**Live Demo Link: https://screen-recapture-detector-6bdw8anxvc3wbvwjsbpo4k.streamlit.app/ **
 
 ---
 
