@@ -7,7 +7,9 @@ features and a GBM + Random Forest ensemble — no GPU required, runs in
 
 **4-fold CV accuracy: 94.53% | ROC-AUC: 0.9858 |**
 
-**Live Demo Link: https://screen-recapture-detector-6bdw8anxvc3wbvwjsbpo4k.streamlit.app/ **
+**Live Demo Link: https://screen-recapture-detector-6bdw8anxvc3wbvwjsbpo4k.streamlit.app/**
+
+**The training dataset is not included in this repository due to size. The repository includes the trained model required for inference.**
 
 ---
 
