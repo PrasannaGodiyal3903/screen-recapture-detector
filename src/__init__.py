@@ -1,0 +1,1 @@
+"""Screen recapture detection package."""
