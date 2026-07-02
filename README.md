@@ -5,7 +5,7 @@ from **photos of a screen** (recaptures).  Built with classical computer-vision
 features and a GBM + Random Forest ensemble — no GPU required, runs in
 ~340 ms per image on a laptop CPU.
 
-**4-fold CV accuracy: 94.53% | ROC-AUC: 0.9858 | 201 images**
+**4-fold CV accuracy: 94.53% | ROC-AUC: 0.9858 |**
 
 ---
 
