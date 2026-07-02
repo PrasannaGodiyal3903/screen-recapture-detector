@@ -187,7 +187,3 @@ print(f"P95: {np.percentile(times, 95):.1f} ms")
 Install: `pip install -r requirements.txt`
 
 ---
-
-## License
-
-This project is provided as a take-home assignment submission.
